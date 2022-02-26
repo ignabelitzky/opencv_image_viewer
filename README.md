@@ -1,5 +1,5 @@
 # Image Viewer (with opencv)
-Display any image.
+Display any image.  
 The source code was extracted from the book  
 "Learning OpenCV 3 - Computer vision in C++ with the opencv library"
 by Adrian Kaehler & Gary Bradski
